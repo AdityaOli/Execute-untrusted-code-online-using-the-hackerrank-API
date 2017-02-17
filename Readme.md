@@ -13,7 +13,7 @@ To Get Started :
 
 
 
-![GetStarted](https://github.com/AdityaOli/Projects/blob/master/Execute%20untrusted%20code%20online%20using%20the%20hackerrank%20API/Images/Tut%20img%201.PNG?raw=true)
+![GetStarted](https://github.com/AdityaOli/Execute-untrusted-code-online-using-the-hackerrank-API/blob/master/Images/Tut%20img%201.PNG?raw=true)
 
 After clicking on Get Started button, you need to type in the details on the next page.
 

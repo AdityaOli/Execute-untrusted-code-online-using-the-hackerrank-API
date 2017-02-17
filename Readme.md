@@ -18,12 +18,13 @@ To Get Started :
 After clicking on Get Started button, you need to type in the details on the next page.
 
 
-![Details](https://github.com/AdityaOli/Projects/blob/master/Execute%20untrusted%20code%20online%20using%20the%20hackerrank%20API/Images/Tut%20img%202.PNG?raw=true)
+![Details](https://github.com/AdityaOli/Execute-untrusted-code-online-using-the-hackerrank-API/blob/master/Images/Tut%20img%201.PNG?raw=true)
+
 
 All set, Click on Generate API Code button. And!!!!
 
 
-![API](https://github.com/AdityaOli/Projects/blob/master/Execute%20untrusted%20code%20online%20using%20the%20hackerrank%20API/Images/Tut%20img%203.PNG?raw=true)
+![API](https://github.com/AdityaOli/Execute-untrusted-code-online-using-the-hackerrank-API/blob/master/Images/Tut%20img%203.PNG?raw=true)
 
 You have your API key ready to use.
 
@@ -39,7 +40,7 @@ Fast install:
 
         pip install hackerrank-sdk
     
-![Fast Install](https://github.com/AdityaOli/Projects/blob/master/Execute%20untrusted%20code%20online%20using%20the%20hackerrank%20API/Images/Tut%20img%204.PNG?raw=true)
+![Fast Install](https://github.com/AdityaOli/Execute-untrusted-code-online-using-the-hackerrank-API/blob/master/Images/Tut%20img%204.PNG?raw=true)
 
 
 For a manual install download this package: https://pypi.python.org/pypi/hackerrank-sdk
@@ -129,4 +130,4 @@ print(result.output[0])
 ```
 Here is the output:
 
-![output](https://github.com/AdityaOli/Projects/blob/master/Execute%20untrusted%20code%20online%20using%20the%20hackerrank%20API/Images/Tut%20img%205.PNG?raw=true)
+![output](https://github.com/AdityaOli/Execute-untrusted-code-online-using-the-hackerrank-API/blob/master/Images/Tut%20img%205.PNG?raw=true)
